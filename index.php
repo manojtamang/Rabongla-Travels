@@ -24,7 +24,7 @@
          <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     	  <div class="container-fluid">
 		    <div class="navbar-header">
-               <div class="navbar-brand navbar-brand-centered">RAVANGLA TOURS</div>
+               <div class="navbar-brand navbar-brand-centered">RAVANGLA TOUR</div>
                
 		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-brand-centered">
 		        <span class="sr-only">Toggle navigation</span>
